@@ -95,7 +95,7 @@ namespace figurasTCP.ViewModels
             {
                 if (!IPAddress.TryParse(Usu1.Ip, out IPAddress? address))
                 {                    
-                    Error = "¡Oh no! Ingresa una IP valida";
+                    Error = "¡Oh no! Ingresa una IP validaaaa";
                     return;
 
                 }
